@@ -1,0 +1,13 @@
+{
+  "name":"adunion-hc",
+  "type":"static",
+  "scripts":{
+    "build":"npm run build",
+    "postpublish":""
+  },
+  "dirPrefix": "",
+  "dist":"./dist",
+  "noNpmInstall":false,
+  "ignoreJsMin":false,
+  "yarn":true
+}
